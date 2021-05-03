@@ -1,13 +1,16 @@
 # BANK-MANAGEMENT-SYSTEM
- Bank Management System in C++
+ **Bank Management System** in C++
+ Using *graphics/h* Header
 
-# IDE Used
- Code::Blocks version 16.01
+## IDE Used
+ Code::Blocks *version* 16.01
 
-# FUNCTIONALITY
- * Main Menu through which you can move further to login as Administer or as Client
- * In Administrator Portal, you can manage overall Data of all Clients, like Adding or Deleting Accounts
- * In Client Portal, you can login to your Account and Perform Transactions while all record being kept in a data file
+## FUNCTIONALITY
+ - Main Menu through which you can move further to login as Administer or as Client
+ - In Administrator Portal, you can manage overall Data of all Clients, like Adding or Deleting Accounts
+ - In Client Portal, you can login to your Account and Perform Transactions while all record being kept in a data file
 
-# AUTHOR
+## AUTHOR
  Harshit Sharma
+ 
+## ScreenShots
