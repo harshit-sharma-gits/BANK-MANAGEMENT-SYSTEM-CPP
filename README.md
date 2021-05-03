@@ -1,6 +1,5 @@
 # BANK-MANAGEMENT-SYSTEM
  **Bank Management System** in C++
- Using *graphics/h* Header
 
 ## IDE Used
  Code::Blocks *version* 16.01
