@@ -14,3 +14,6 @@
  Harshit Sharma
  
 ## ScreenShots
+![Screen Shot 1](https://github.com/harshit-sharma-gits/BANK-MANAGEMENT-SYSTEM-CPP/blob/main/ScreenShots/ss1.PNG)
+![Screen Shot 2](https://github.com/harshit-sharma-gits/BANK-MANAGEMENT-SYSTEM-CPP/blob/main/ScreenShots/ss2.PNG)
+![Screen Shot 3](https://github.com/harshit-sharma-gits/BANK-MANAGEMENT-SYSTEM-CPP/blob/main/ScreenShots/ss3.PNG)
